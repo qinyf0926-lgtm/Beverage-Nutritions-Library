@@ -1,12 +1,11 @@
 # Beverage-Nutritions-Library
-Beverage Nutritions Library Project
+Description
 #
-
 #### Find beverage types by using the drink names.
-##### names {string} - the name of the drink to search for.
-##### return {list} - the list of the beverage type of the specific drink name.
-###### function findTypes(names)
-#
+##### @param names {string} - the name of the drink to search for.
+##### @return return {list} - the list of the beverage type of the specific drink name.
+**`function findTypes(names)`**
+
 
 #### Use drink names to check whether it's sugar free.
 ##### name {string} - the drink name that you want to check.
