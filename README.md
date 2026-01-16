@@ -17,14 +17,17 @@ Beverage Nutritions Library Project
 #### Use type to find the drink with the highest calorie within the types.
 ##### types {sting} - the type of drink to search within.
 ##### return {string} - The drink name with the highest calorie in the specific type.
+###### function findHighestCalorie(types)
 #
 
 #### Calculate the average carbohydrate of a certain type of beverage.
 ##### types {string} - the type of drink to calculate the average carbohydrates for.
 ##### return {number} - the average carbohydrate value for the specific drink type.
+###### function averageCarbohydrate(types)
 #
 
 #### Use types to get caffeine-free beverages (caffeine = 0).
 ##### types {string} - the desired drink types that you want to check.
 ##### return {list} - the drink names of caffeine-free drinks of that type.
+###### function findCaffeineFree(types)
 #
