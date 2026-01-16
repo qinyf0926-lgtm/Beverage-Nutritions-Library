@@ -1,5 +1,9 @@
 # Beverage-Nutritions-Library
-Description
+Function number 1) gives us a list of bevarage type of the specific drink name. 
+Function number 2) gives us if the the juice is true or false depending on if it is sugar free or non sugar free. If the drink if sugar free it gives us true the drink is sugar free, and if the drink has sugar it gives us flase the dink has sugar. 
+Function number 3) gives us the highest caleries in a specific drink type. 
+Function number 4) gives us the average number of carbohydrates in a specific drink type. 
+Function number 5) gives us the cafeine free drink in a specific type of drinks.
 #
 #### Find beverage types by using the drink names.
 ##### @param names {string} - the name of the drink to search for.
